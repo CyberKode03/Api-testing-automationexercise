@@ -13,10 +13,6 @@ It includes **individual test scripts** for each API as well as a **master runne
 
 ---
 
-## 📂 Project Structure
-
----
-
 ## ⚙️ Master Runner (Parallel Execution)
 
 The file **`run_all_tests.py`**:
