@@ -1,0 +1,17 @@
+{
+    "testcase_id": "API_009",
+    "created_at": 1750315105662,
+    "success": true,
+    "status_code": 200,
+    "logs": [
+        {
+            "log": "Status Code: 200",
+            "timestamp": 1750315106855
+        },
+        {
+            "log": "Response: {\"responseCode\": 405, \"message\": \"This request method is not supported.\"}",
+            "timestamp": 1750315106855
+        }
+    ],
+    "completed_at": 1750315106855
+}

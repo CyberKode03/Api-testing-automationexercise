@@ -1,0 +1,17 @@
+{
+    "testcase_id": "API_007",
+    "created_at": 1750315103998,
+    "success": true,
+    "status_code": 200,
+    "logs": [
+        {
+            "log": "Status Code: 200",
+            "timestamp": 1750315105004
+        },
+        {
+            "log": "Response: {\"responseCode\": 200, \"message\": \"User exists!\"}",
+            "timestamp": 1750315105004
+        }
+    ],
+    "completed_at": 1750315105004
+}

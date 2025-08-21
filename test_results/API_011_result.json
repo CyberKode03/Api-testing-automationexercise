@@ -1,0 +1,17 @@
+{
+    "testcase_id": "API_011",
+    "created_at": 1750315105663,
+    "success": true,
+    "status_code": 200,
+    "logs": [
+        {
+            "log": "Status Code: 200",
+            "timestamp": 1750315106926
+        },
+        {
+            "log": "Response: {\"responseCode\": 400, \"message\": \"Email already exists!\"}",
+            "timestamp": 1750315106926
+        }
+    ],
+    "completed_at": 1750315106926
+}

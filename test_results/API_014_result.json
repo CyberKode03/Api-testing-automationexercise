@@ -1,0 +1,17 @@
+{
+    "testcase_id": "API_014",
+    "created_at": 1750315105665,
+    "success": true,
+    "status_code": 200,
+    "logs": [
+        {
+            "log": "Status Code: 200",
+            "timestamp": 1750315106978
+        },
+        {
+            "log": "Response: {\"responseCode\": 200, \"user\": {\"id\": 776374, \"name\": \" johndoe\", \"email\": \"johndoe16@example.com\", \"title\": \" Mr\", \"birth_day\": \" 15\", \"birth_month\": \" 10\", \"birth_year\": \" 1995\", \"first_name\": \" John\", \"last_name\": \" Doe\", \"company\": \" OpenAI\", \"address1\": \" 123 Main Street\", \"address2\": \" Apt 101\"",
+            "timestamp": 1750315106978
+        }
+    ],
+    "completed_at": 1750315106978
+}

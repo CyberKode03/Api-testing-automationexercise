@@ -1,0 +1,17 @@
+{
+    "testcase_id": "API_008",
+    "created_at": 1750315105662,
+    "success": true,
+    "status_code": 200,
+    "logs": [
+        {
+            "log": "Status Code: 200",
+            "timestamp": 1750315106092
+        },
+        {
+            "log": "Response: {\"responseCode\": 400, \"message\": \"Bad request, email or password parameter is missing in POST request.\"}",
+            "timestamp": 1750315106092
+        }
+    ],
+    "completed_at": 1750315106092
+}

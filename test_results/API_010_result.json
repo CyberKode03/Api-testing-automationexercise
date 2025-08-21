@@ -1,0 +1,17 @@
+{
+    "testcase_id": "API_010",
+    "created_at": 1750315105662,
+    "success": true,
+    "status_code": 200,
+    "logs": [
+        {
+            "log": "Status Code: 200",
+            "timestamp": 1750315106955
+        },
+        {
+            "log": "Response: {\"responseCode\": 404, \"message\": \"User not found!\"}",
+            "timestamp": 1750315106955
+        }
+    ],
+    "completed_at": 1750315106955
+}

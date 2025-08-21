@@ -1,0 +1,17 @@
+{
+    "testcase_id": "API_006",
+    "created_at": 1750315103998,
+    "success": true,
+    "status_code": 200,
+    "logs": [
+        {
+            "log": "Status Code: 200",
+            "timestamp": 1750315105616
+        },
+        {
+            "log": "Response: {\"responseCode\": 400, \"message\": \"Bad request, search_product parameter is missing in POST request.\"}",
+            "timestamp": 1750315105616
+        }
+    ],
+    "completed_at": 1750315105616
+}

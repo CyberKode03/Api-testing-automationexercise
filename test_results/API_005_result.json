@@ -1,0 +1,17 @@
+{
+    "testcase_id": "API_005",
+    "created_at": 1750315103997,
+    "success": true,
+    "status_code": 200,
+    "logs": [
+        {
+            "log": "Status Code: 200",
+            "timestamp": 1750315105629
+        },
+        {
+            "log": "Response: {\"responseCode\": 200, \"products\": [{\"id\": 33, \"name\": \"Soft Stretch Jeans\", \"price\": \"Rs. 799\", \"brand\": \"Polo\", \"category\": {\"usertype\": {\"usertype\": \"Men\"}, \"category\": \"Jeans\"}}, {\"id\": 35, \"name\": \"Regular Fit Straight Jeans\", \"price\": \"Rs. 1200\", \"brand\": \"H&M\", \"category\": {\"usertype\": {\"usert",
+            "timestamp": 1750315105629
+        }
+    ],
+    "completed_at": 1750315105629
+}

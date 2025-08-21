@@ -1,0 +1,17 @@
+{
+    "testcase_id": "API_013",
+    "created_at": 1750315105664,
+    "success": true,
+    "status_code": 200,
+    "logs": [
+        {
+            "log": "Status Code: 200",
+            "timestamp": 1750315106253
+        },
+        {
+            "log": "Response: {\"responseCode\": 404, \"message\": \"Account not found!\"}",
+            "timestamp": 1750315106253
+        }
+    ],
+    "completed_at": 1750315106253
+}
